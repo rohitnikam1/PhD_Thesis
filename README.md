@@ -1,5 +1,4 @@
-# PhD Thesis: Highly charged dendritic polyelectrolytes: Competitive 
-ion binding and charge renormalization
+# PhD Thesis: Highly charged dendritic polyelectrolytes: Competitive ion binding and charge renormalization
 
 Polyelectrolytes (PEs) represent a broad and interesting class of materials that are getting 
 an increasing attention in the scientific community. Quintessential roles of PEs range from 
